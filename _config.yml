@@ -1,0 +1,10 @@
+title: lorem ipsum
+description: dolor sit amet
+theme: minima
+plugins:
+  - jekyll-feed
+
+# if your repo is not username.github.io, set:
+# baseurl: "/repo-name"
+
+permalink: /blog/:title/
