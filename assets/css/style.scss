@@ -69,14 +69,17 @@ a, a:visited { color: $link; text-decoration: underline; }
 a:hover { color: $hover; background: $hover-bg; }
 
 h1, h2, h3, h4,
-.post-title, .post-list-heading, .post-link {
+.post-title, .page-heading, .post-list-heading, .post-link {
   font-family: "Times New Roman", Times, serif;
   text-transform: lowercase;
   color: $ink;
   letter-spacing: 0;
 }
-.post-title, h1 {
+
+.post-title, .page-heading, h1 {
   font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.2;
   letter-spacing: 0;
   border-bottom: 3px double $line;
   margin: 0.4em 0 0.5em;

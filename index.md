@@ -1,21 +1,16 @@
 ---
 layout: page
-title: welcome to my site
+title: The peak of the iceberg of Lio Dubois
 ---
 
-Hi! Lorem ipsum dolor sit amet.
 
-This is a place for my projects and thoughts!  
-I like to draw and code.  
-Here are some of the things I've done:
+Can't safely self host for a while, too many downtimes because of electrical issues in the place I live in right now.
+So made this, it's built using a CI with jekyyll processing .md files for content on a github repo.
+I'll try to keep it updated and to be my main hub for ever.
 
-- [project 1: proident aperiam]({{ '/projects/project-1/' | relative_url }})
-- [project 2: nemo eu]({{ '/projects/project-2/' | relative_url }})
-- [project 3: inventore ea]({{ '/projects/project-3/' | relative_url }})
 
-Reprehenderit iste aliquip voluptatem cupidatat voluptatem inventore sit culpa deserunt natus quae ipsam. Eaque ipsam id in quae omnis consectetur dicta irure veritatis. Aliqua velit dicta vitae elit aut ex sit.
 
-> Commodo aliquip ipsam excepteur laboris voluptas dicta explicabo unde rem.
+> Feel free to CLICK CLICK wherever you want
 
 ## latest posts
 
