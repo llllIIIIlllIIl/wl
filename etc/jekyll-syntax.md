@@ -81,8 +81,7 @@ Term 2
 [ref-id]: https://example.com
 
 ### Internal Jekyll Links
-- Link to another post: [Other post]({% post_url 2026-11-25-game-wards-and-wasting-time-on-steam.md %})
-- Link to a page: [Other page]({% link etc.md %})
+- removed
 
 ### Images
 - Image: ![Alt text](/assets/images/sample.png)
