@@ -8,8 +8,8 @@ Architecto quia amet omnis ab nisi odit laborum veritatis rem magna illo nulla a
 
 ## things i made
 
-- [project 1: proident aperiam]({{ '/projects/project-1/' | relative_url }}): Cupidatat et est id minim nisi sunt qui elit.
-- [project 2: nemo eu]({{ '/projects/project-2/' | relative_url }}): Quis sed consequat nulla qui anim aliquip cillum error.
+- [web stuff:]({{ '/projects/web/' | relative_url }}): list of some of the chaotic web stuff i made
+- [music: MAIN ARTISTIC SUPPORT]({{ '/projects/music/' | relative_url }}): some are listed on the page kinda like a portfolio i hate being corpo BUT YOU ASKED FOR IT
 - [project 3: inventore ea]({{ '/projects/project-3/' | relative_url }}): Do ut laboris id voluptas ullamco voluptatem aperiam.
 - [project 4: voluptas laudantium]({{ '/projects/project-4/' | relative_url }}): Labore elit culpa unde elit aliquip perspiciatis ad ut voluptate ullamco incididunt eiusmod id.
 - [project 5: dicta sint]({{ '/projects/project-5/' | relative_url }}): Mollit deserunt ipsam dolore do officia ipsa voluptate incididunt exercitation duis inventore.
