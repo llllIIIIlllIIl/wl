@@ -1,32 +1,35 @@
 ---
 layout: page
-title: "project 1: proident aperiam"
-permalink: /projects/project-1/
+title: "web stuff"
+permalink: /projects/web/
 ---
 
-Enim tempor dolor ut exercitation aliqua unde odit tempor fugiat nulla sunt eu. Architecto laudantium error ut inventore rem accusantium esse nisi quia eaque commodo explicabo id aut amet. Illo odit natus dicta deserunt error duis nulla perspiciatis unde duis dolore. Ipsum error anim incididunt illo fugit nulla ut ipsa nisi cupidatat aspernatur. Sit eaque magna et elit iste sed exercitation error.
+My main website is down for now i have to find a place in which to plug my  2xN100 + DAS proxmox servers. Electricity is too unstable where I live right now...
+ 
+i'll put it back... here when it'll be able to host it:
+# [https://reallio.1113000.xyz](https://reallio.1113000.xyz)
 
-## commodo rem
 
-Minim quia fugit enim unde sit eu fugit dicta ex. Laborum ullamco quae eu sint deserunt ullamco velit sit ut inventore ipsam ipsum sed ab. Quasi eu elit nisi voluptatem excepteur non excepteur inventore ipsa laboris sit ea dolor. Dicta culpa aliquip nisi fugiat exercitation velit aut sunt ab duis in.
+## some links of previous stuff that i remember right now
 
-> Ullamco voluptatem enim id odit consequat aspernatur magna in aute tempor esse lorem est ex.
+- [2845f6ec](https://web.archive.org/web/20191023132159/http://2845f6ec.fr/) Concept is based on what the protocol whicb CRC32 off its name is 2845f6ec. You'll have to dig the lore by yourself. took me a long time to make a script and based on google maps API I got screenshot of a long travel in streetview in HK. Then did some visual FX on the video and made music. Tried to remake a demo of a webgl scene and just placed it on top (rotating cubes)
+
+- [deadname website](https://web.archive.org/web/20211214194954/http://leodubois.eu/) kinda beta of duboisleo.com, used to host my first webgl stuff made using cables.gl (I was bad with three.js back then so I used cables)
+https://web.archive.org/web/20221207204016/https://duboisleo.com/ (broken, archive misses lots of things) my backup got corrupted, it had like 20 handcrafted web pages that I lost....
+
+- [cbrspcISRS](https://web.archive.org/web/20191023132019/http://cbrspcisrs.fr/?i=1) it didn't save but it had like 700 folders with apache configured to let access just one in which we could find some odd science company files, then find credentials and then access one of the 700 folders that was asking for a password, inside they were evidences of what the company cbrspcISRS are really doing.....
+
+- [noqwes](https://web.archive.org/web/20191023132545/http://noqwes.ovh/?i=1) (now partially broken)was a hijack of the soundcloud window to pretend kinda like a hack of the user
+wait I have it working here I forgot [noqwes.ct.ws](noqwes.ct.ws)
+
+
+> I lost like 14 other websites that aren't on archive.org
+Even more I think, I had a lot using .tk free domains, no-ip (dynDNS) to redirect to self host, some free .ml and forgot the other one like .cf from freenom.com
 
 
 ## voluptate architecto
 
-Ullamco doloremque adipiscing exercitation quia nulla consectetur fugit fugit qui veniam culpa magna in architecto. Labore ut ipsum magna in ut sed quia. Incididunt aspernatur ad mollit architecto occaecat tempor proident cillum ab veritatis explicabo occaecat. Amet doloremque aliquip nostrud ipsa beatae ipsum amet magna sed totam nisi accusantium. Vitae ut ipsam dolor adipiscing voluptate sed labore et est magna unde sunt lorem.
-
-- laboris architecto
-- aliqua quae quia iste
-- labore unde fugiat laborum
-- eu ullamco
-
-Ipsam do consequat dicta minim ipsum commodo consequat sed consectetur nostrud. Adipiscing non error nulla consequat ipsum velit beatae consectetur illo deserunt iste aute natus esse beatae.
-
-## voluptas explicabo consequat
-
-Voluptate iste proident sint ut sint aut sint non aliqua quae lorem aliquip rem. Ea beatae aperiam ipsam excepteur aliquip nostrud inventore labore tempor eaque amet explicabo adipiscing cupidatat beatae. Velit architecto ab qui natus veritatis voluptate deserunt accusantium lorem anim voluptas ab anim ut cillum. Excepteur aliquip ipsa voluptas excepteur fugiat explicabo sed occaecat unde consequat aperiam inventore quasi velit do.
+access
 
 ```
 ipsa iste veritatis laboris aperiam
