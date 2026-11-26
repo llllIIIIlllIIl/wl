@@ -8,7 +8,7 @@ My main website is down for now i have to find a place in which to plug my  2xN1
  
 i'll put it back... here when it'll be able to host it:
 # [https://lio-was-here.1113000.xyz](https://lio-was-here.1113000.xyz)
-
+or if not working, here: [http://lio.site.je](http://lio.site.je)
 
 ## some links of previous stuff that i remember right now
 

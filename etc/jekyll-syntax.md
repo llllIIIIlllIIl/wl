@@ -5,6 +5,7 @@ date: 2026-11-25
 categories: [notes, reference]
 tags: [markdown, jekyll, kramdown]
 published: true
+permalink: /etc/jekyll-syntax.md
 ---
 
 # Heading 1
