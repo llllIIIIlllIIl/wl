@@ -10,7 +10,7 @@ I'll try to keep it updated and to be my main hub for ever.
 
 
 
-> Feel free to CLICK CLICK wherever you want
+> Texts are full of spelling mistakes that I keep on purpose to show it's fully handwritten on the moment without AI.
 
 ## latest posts
 
